@@ -1,13 +1,4 @@
-//
-//  Operators.swift
-//  LayoutKit
-//
-//  Created by Jianyi Huang on 06/17/16.
-//  Copyright © 2016 LazybonesApp. All rights reserved.
-//
-
 import UIKit
-
 
 
 public extension Array where Element: NSLayoutConstraint {
